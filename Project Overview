@@ -1,0 +1,11 @@
+🔍 Project Overview
+We build a dataset using:
+Full FastF1 lap data
+Track lengths for all 24 races
+Tire compound
+Tire age
+Circuit type (street vs permanent)
+Weather (rainfall)
+Lap number
+Driver & team identity (one-hot encoded)
+The final test set is only the Abu Dhabi Grand Prix, allowing us to evaluate how well the model generalizes to the final race of the season.
